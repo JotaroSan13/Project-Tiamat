@@ -1,5 +1,4 @@
 <?php
-
-echo 'ninja';
+echo "<h1>Project Tiamat</h1>";
 
 ?>
