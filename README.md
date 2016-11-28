@@ -4,4 +4,5 @@ Project Tiamat is D&D application inteded to assist players and DM by offering a
 
 **Features: **
 
-Combat Tracking
+- Combat Tracking
+- Player Stats
